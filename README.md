@@ -38,9 +38,3 @@
 
 ---
 
-## ⚡ Skills Progress
-```markdown
-**JavaScript:** ▓▓▓▓▓▓▓▓▓ 90%  
-**Python:** ▓▓▓▓▓▓▓▓ 80%  
-**React:** ▓▓▓▓▓▓▓▓▓ 85%  
-**Node.js:** ▓▓▓▓▓▓▓ 75%  
