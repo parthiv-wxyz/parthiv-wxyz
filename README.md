@@ -17,6 +17,10 @@
 
 ---
 
+## Some Finished Projects
+-Flipkart clone : https://mobile-desktop.netlify.app/ 
+-Weather App    : https://nimbusflow.netlify.app/
+
 ## 💻 My Tech Stack
 
 | Frontend | Backend | Database | Tools |
