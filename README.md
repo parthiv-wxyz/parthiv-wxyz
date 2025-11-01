@@ -8,6 +8,7 @@
 ---
 
 ## 🔭 I’m currently working on  
+- **Link Shortener** – Shorten lengthy links  
 - **JobSphere** – Job & Equipment Rental Platform  
 - **Machine Learning Projects** – Learning and experimenting with AI algorithms  
 - **Next.js & Tailwind Projects** – Building modern web apps  
