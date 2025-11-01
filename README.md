@@ -8,7 +8,6 @@
 ---
 
 ## 🔭 I’m currently working on  
-- **Link Shortener** – Shorten lengthy links  
 - **JobSphere** – Job & Equipment Rental Platform  
 - **Machine Learning Projects** – Learning and experimenting with AI algorithms  
 - **Next.js & Tailwind Projects** – Building modern web apps  
@@ -23,6 +22,7 @@
 ---
 
 ## 🧩 Some Finished Projects  
+- **Link Shortener** → [Live Demo](https://link-shortener-orpin-zeta.vercel.app/) 
 - **Flipkart Clone** → [Live Demo](https://mobile-desktop.netlify.app/)  
 - **Weather App** → [Live Demo](https://nimbusflow.netlify.app/)  
 - **Doordash Clone** → [Live Demo](https://doordash-clone-html.netlify.app/)  
