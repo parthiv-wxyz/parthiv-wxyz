@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Parthiv Prakash  
-### 🌟 MSc Computer Science | MERN & Python Developer | Passionate about Web & ML  
+### 🌟 MSc Computer Science | REACT & Python Developer | Passionate about Web & ML  
 
 [![Portfolio](https://img.shields.io/badge/-🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge)](https://parthiv-prakash.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-🔗_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-prakash-4100a532a/)
@@ -8,6 +8,7 @@
 ---
 
 ## 🔭 I’m currently working on  
+- **Academic Platform** - Academic note sharing platform 
 - **JobSphere** – Job & Equipment Rental Platform  
 - **Machine Learning Projects** – Learning and experimenting with AI algorithms  
 - **Next.js & Tailwind Projects** – Building modern web apps  
