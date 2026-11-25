@@ -1,51 +1,61 @@
-# 👋 Hey there, I’m Parthiv Prakash  
-### 🌟 MSc Computer Science | REACT & Python Developer | Passionate about Web & ML  
+# Hi, I'm Parthiv Prakash 👋
 
-[![Portfolio](https://img.shields.io/badge/-🌐_Visit_My_Portfolio-0A66C2?style=for-the-badge)](https://parthiv.qd.je/)
-[![LinkedIn](https://img.shields.io/badge/-🔗_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-prakash-4100a532a/)
+### MSc Computer Science · React & Python Developer · Machine Learning Enthusiast
 
+I build practical web applications and ML-powered tools with a focus on clean interfaces, useful automation, and learning by shipping.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parthiv.qd.je/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthiv-prakash-4100a532a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthiv-wxyz)
 
-## 🔭 I’m currently working on  
-- **Academic Platform** - Academic note sharing platform 
-- **JobSphere** – Job & Equipment Rental Platform  
-- **Machine Learning Projects** – Learning and experimenting with AI algorithms  
-- **Next.js & Tailwind Projects** – Building modern web apps  
+## What I'm focused on
 
----
+- Building ML projects with Python and TensorFlow
+- Creating modern full-stack applications with React, Next.js, and Tailwind CSS
+- Designing simple, accessible interfaces for real-world problems
 
-## 🌱 I’m learning  
-- Advanced **MERN Stack** (React, Node, Express, MongoDB)  
-- **Next.js 14**, SSR & SSG techniques  
-- **AI/ML** with Python and TensorFlow  
+## Featured projects
 
----
+| Project | Description | Links |
+| --- | --- | --- |
+| **Audio Detection** | ML-powered audio deepfake detection | [Live demo](https://huggingface.co/spaces/iAmNewUserOkay/audio-deepfake-detector) · [Source](https://github.com/parthiv-wxyz/audiodetect) |
+| **Multi-Road Object Detection** | Computer vision for detecting objects across road scenes | [Live demo](https://road-detect-seven.vercel.app/) · [Source](https://github.com/parthiv-wxyz/multi-road-object-detection) |
+| **Link Shortener** | Fast, simple URL shortening application | [Live demo](https://link-shortener-orpin-zeta.vercel.app/) |
+| **Weather App** | Clean weather information dashboard | [Live demo](https://nimbusflow.netlify.app/) |
 
-## 🧩 Some Finished Projects  
-- **Link Shortener** → [Live Demo](https://link-shortener-orpin-zeta.vercel.app/) 
-- **Flipkart Clone** → [Live Demo](https://mobile-desktop.netlify.app/)  
-- **Weather App** → [Live Demo](https://nimbusflow.netlify.app/)  
-- **Doordash Clone** → [Live Demo](https://doordash-clone-html.netlify.app/)  
+## Tech stack
 
----
+### Frontend
 
-## 💻 My Tech Stack  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?logo=visual-studio-code&logoColor=white) |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |  |  |
+### Backend, data & ML
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:pparthivprakash1@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?logo=google-chrome&logoColor=white)](https://parthiv-prakash.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/parthiv-prakash](https://www.linkedin.com/in/parthiv-prakash-4100a532a/))  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/parthiv-wxyz)
+### Tools
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-⭐ *"Code. Learn. Repeat."*
+## Currently learning
+
+- Advanced MERN development and API design
+- Next.js rendering, performance, and deployment
+- Practical ML workflows with Python and TensorFlow
+
+## Let's connect
+
+- 📧 [Email me](mailto:pparthivprakash1@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/parthiv-prakash-4100a532a/)
+- 🌐 [Portfolio](https://parthiv.qd.je/)
+
+> **Code. Learn. Repeat.**
